@@ -1,0 +1,22 @@
+{
+  "KPackageStructure": "KWin/Script",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "julian.lf.olate@gmail.com",
+        "Name": "Julian Olate"
+      }
+    ],
+    "BugReportUrl": "https://github.com/olatejulian/autotile/issues",
+    "Description": "Auto tiling when moved to another screen monitor.",
+    "Icon": "preferences-system-windows",
+    "Id": "autotile",
+    "License": "GPLv3",
+    "Name": "autotile",
+    "Version": "0.9.2",
+    "Website": "https://github.com/olatejulian/autotile"
+  },
+  "X-Plasma-API": "javascript",
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "X-Plasma-MainScript": "code/main.js"
+}
